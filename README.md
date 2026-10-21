@@ -4,7 +4,11 @@ Web ERP built for **Casa do Portão**, a glass and aluminum shop in Brazil. It r
 
 **Live:** [cponline.site](https://cponline.site)
 
-![Login](screenshots/login.png)
+| Quotes and sales | Sales kanban |
+|---|---|
+| ![Quotes](screenshots/orcamentos.png) | ![Kanban](screenshots/kanban.png) |
+| **Aluminum bar cutting optimizer** | **Reports** |
+| ![Cutting optimizer](screenshots/otimizacao.png) | ![Reports](screenshots/relatorios.png) |
 
 ## Features
 
